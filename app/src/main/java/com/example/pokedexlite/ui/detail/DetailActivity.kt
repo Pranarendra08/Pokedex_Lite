@@ -1,4 +1,4 @@
-package com.example.pokedexlite
+package com.example.pokedexlite.ui.detail
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
